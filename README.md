@@ -2,7 +2,7 @@
 	<a href="https://frappe.io/hr">
 		<img src=".github/frappe-hr-logo.png" height="80px" width="80px" alt="Frappe HR Logo">
 	</a>
-	<h2>Frappe HR</h2>
+	<h2>TringHRMS</h2>
 	<p align="center">
 		<p>Open Source, modern, and easy-to-use HR and Payroll Software</p>
 	</p>
